@@ -46,7 +46,7 @@ public class AlbumWebb {
       this.year = year;
    }
 
-   public AlbumWebb(String name, String age, String genre, String year) {
+   public AlbumWebb(String title, String artist, String genre, String year) {
       this.title = title;
       this.artist = artist;
       this.genre = genre;
